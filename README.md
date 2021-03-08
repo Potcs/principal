@@ -7,17 +7,21 @@
 
 ## Tareas por hacer (previas)
 
-[] autocultivxs
+[] autocultivxs y cultivo comunal
 
-[] Objetos para el cultivo (masestas, prototipo cama, distintivo)
 
-[] Bases red regional digital de intercambio de semillas, frutos, procesos, composta
+[] Entregables: 
+() prototipo fisico y digital cama de azotea
+() prototipo objetos para el cultivo masetas, verticales, composta
+() prototipo de circuito local; cocinas, centros de diseño (residuos+cultivo), espacios publicos
+() diagnostico de impacto social y ambiental; certificaciones/metodologias aplicadas/ indice net zero
+() Recopilacion Redes de intercambio de semillas, frutos, TI, composta; fisicas y digitales
 
-[] Modelos de desarrollo / clear operation system
 
-[] Bases fondeo de inyeccion para el desarrollo *piloto 1 (detectar actores clave)
+[] Modelos de desarrollo continuo / clear operation system
 
-[] capital semilla de yba
+
+[] Desarrollo piloto mvp 
 
 
 
@@ -33,7 +37,8 @@
  - Venta de productos para el cultivo
  - Comedores comunitarios
  - Procesamiento para la conserva de alimentos
- 
+ - diagnostico de impacto
+ - 
 
 [] flujo regular de servicios (ventas, activaciones, intercambios, canalizacion de fondos, monitoreo de transparencia)
 
